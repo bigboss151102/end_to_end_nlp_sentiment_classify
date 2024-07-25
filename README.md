@@ -37,10 +37,7 @@ pip install -r requirements.txt
 # Run Application
 All done! To run the application, start the Streamlit server:
 ```cmd
-cd App
-```
-```cmd
-python main.py
+streamlit run app.py
 ```
 Visit the URL shown in your terminal (usually http://localhost:8501) to view the app.
 
